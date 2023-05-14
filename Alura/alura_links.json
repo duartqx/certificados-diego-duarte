@@ -1,46 +1,50 @@
 [
-  {
-    "title": "django",
-    "url": "https://cursos.alura.com.br/degree/certificate/3e843541-763d-4ac7-aee5-0a7fa765e1c3"
-  },
-  {
-    "title": "django-rest-apis",
-    "url": "https://cursos.alura.com.br/degree/certificate/a263f995-03e9-4c48-8a76-1622c0180e9a"
-  },
-  {
-    "title": "front-end",
-    "url": "https://cursos.alura.com.br/degree/certificate/a263f995-03e9-4c48-8a76-1622c0180e9a"
-  },
-  {
-    "title": "infraestrutura como código",
-    "url": "https://cursos.alura.com.br/degree/certificate/e4f2280c-d847-4d7f-a837-0e232e284cc5"
-  },
-  {
-    "title": "iniciante-programação",
-    "url": "https://cursos.alura.com.br/degree/certificate/bac6605f-933a-4dc6-86ef-695ff25bd67b"
-  },
-  {
-    "title": "começando-aws",
-    "url": "https://cursos.alura.com.br/degree/certificate/574c9d1f-e875-4069-8a48-1d582df6d4a7"
-  },
-  {
-    "title": "começando-em-devops",
-    "url": "https://cursos.alura.com.br/degree/certificate/37392b66-3a10-49e9-a2b6-79fdd8a634fe"
-  },
-  {
-    "title": "começando-em-cloud_computing",
-    "url": "https://cursos.alura.com.br/degree/certificate/d0742441-6bff-47f6-a270-c2cf0f95e1bf"
-  },
-  {
-    "title": "javascript-front-end",
-    "url": "https://cursos.alura.com.br/degree/certificate/d12f2da7-8d8c-4c84-b5f6-a5c1b86d2307"
-  },
-  {
-    "title": "javascript-back-end",
-    "url": "https://cursos.alura.com.br/degree/certificate/6979b3f6-968c-4f0c-825b-0510e9dad124"
-  },
-  {
-    "title": "typescript",
-    "url": "https://cursos.alura.com.br/degree/certificate/92c53a4b-2f5d-4b13-bcb5-dc828c2faa5a"
-  }
+    {
+        "title": "comecando-aws",
+        "url": "https://cursos.alura.com.br/degree/certificate/574c9d1f-e875-4069-8a48-1d582df6d4a7"
+    },
+    {
+        "title": "comecando-em-cloud_computing",
+        "url": "https://cursos.alura.com.br/degree/certificate/d0742441-6bff-47f6-a270-c2cf0f95e1bf"
+    },
+    {
+        "title": "comecando-em-devops",
+        "url": "https://cursos.alura.com.br/degree/certificate/37392b66-3a10-49e9-a2b6-79fdd8a634fe"
+    },
+    {
+        "title": "devops",
+        "url": "https://cursos.alura.com.br/degree/certificate/b686f30c-2f55-4df1-ac75-2139a3318f84"
+    },
+    {
+        "title": "django",
+        "url": "https://cursos.alura.com.br/degree/certificate/3e843541-763d-4ac7-aee5-0a7fa765e1c3"
+    },
+    {
+        "title": "django-rest-apis",
+        "url": "https://cursos.alura.com.br/degree/certificate/a263f995-03e9-4c48-8a76-1622c0180e9a"
+    },
+    {
+        "title": "front-end",
+        "url": "https://cursos.alura.com.br/degree/certificate/a263f995-03e9-4c48-8a76-1622c0180e9a"
+    },
+    {
+        "title": "infraestrutura como codigo / iac",
+        "url": "https://cursos.alura.com.br/degree/certificate/e4f2280c-d847-4d7f-a837-0e232e284cc5"
+    },
+    {
+        "title": "iniciante-programacao",
+        "url": "https://cursos.alura.com.br/degree/certificate/bac6605f-933a-4dc6-86ef-695ff25bd67b"
+    },
+    {
+        "title": "javascript-back-end",
+        "url": "https://cursos.alura.com.br/degree/certificate/6979b3f6-968c-4f0c-825b-0510e9dad124"
+    },
+    {
+        "title": "javascript-front-end",
+        "url": "https://cursos.alura.com.br/degree/certificate/d12f2da7-8d8c-4c84-b5f6-a5c1b86d2307"
+    },
+    {
+        "title": "typescript",
+        "url": "https://cursos.alura.com.br/degree/certificate/92c53a4b-2f5d-4b13-bcb5-dc828c2faa5a"
+    }
 ]
