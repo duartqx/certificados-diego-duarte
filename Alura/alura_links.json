@@ -2,76 +2,97 @@
     {
         "shortname": "comecando-aws",
         "title": "Formação Começando na AWS com Lightsail, EC2, S3, VPC, RDS e DynamoDB",
-        "url": "https://cursos.alura.com.br/degree/certificate/574c9d1f-e875-4069-8a48-1d582df6d4a7"
+        "url": "https://cursos.alura.com.br/degree/certificate/574c9d1f-e875-4069-8a48-1d582df6d4a7",
+        "hours": 41
     },
     {
         "shortname": "comecando-em-cloud_computing",
         "title": "Formação Começando em Cloud Computing",
-        "url": "https://cursos.alura.com.br/degree/certificate/d0742441-6bff-47f6-a270-c2cf0f95e1bf"
+        "url": "https://cursos.alura.com.br/degree/certificate/d0742441-6bff-47f6-a270-c2cf0f95e1bf",
+        "hours": 53
     },
     {
         "shortname": "comecando-em-devops",
         "title": "Formação Começando em Devops",
-        "url": "https://cursos.alura.com.br/degree/certificate/37392b66-3a10-49e9-a2b6-79fdd8a634fe"
+        "url": "https://cursos.alura.com.br/degree/certificate/37392b66-3a10-49e9-a2b6-79fdd8a634fe",
+        "hours": 51
     },
     {
         "shortname": "devops",
         "title": "Formação Devops",
-        "url": "https://cursos.alura.com.br/degree/certificate/b686f30c-2f55-4df1-ac75-2139a3318f84"
+        "url": "https://cursos.alura.com.br/degree/certificate/b686f30c-2f55-4df1-ac75-2139a3318f84",
+        "hours": 58
     },
     {
         "shortname": "django",
         "title": "Formação Django",
-        "url": "https://cursos.alura.com.br/degree/certificate/3e843541-763d-4ac7-aee5-0a7fa765e1c3"
+        "url": "https://cursos.alura.com.br/degree/certificate/3e843541-763d-4ac7-aee5-0a7fa765e1c3",
+        "hours": 67
     },
     {
         "shortname": "django-rest-apis",
         "title": "Formação Django Rest Apis: Crie Aplicações Rest em Python",
-        "url": "https://cursos.alura.com.br/degree/certificate/a263f995-03e9-4c48-8a76-1622c0180e9a"
+        "url": "https://cursos.alura.com.br/degree/certificate/a263f995-03e9-4c48-8a76-1622c0180e9a",
+        "hours": 40
     },
     {
         "shortname": "infraestrutura como codigo / iac",
         "title": "Formação infraestrutura como código",
-        "url": "https://cursos.alura.com.br/degree/certificate/e4f2280c-d847-4d7f-a837-0e232e284cc5"
+        "url": "https://cursos.alura.com.br/degree/certificate/e4f2280c-d847-4d7f-a837-0e232e284cc5",
+        "hours": 46
     },
     {
         "shortname": "iniciante-programacao",
         "title": "Formação iniciante em Programação",
-        "url": "https://cursos.alura.com.br/degree/certificate/bac6605f-933a-4dc6-86ef-695ff25bd67b"
+        "url": "https://cursos.alura.com.br/degree/certificate/bac6605f-933a-4dc6-86ef-695ff25bd67b",
+        "hours": 79
     },
     {
         "shortname": "javascript-back-end",
         "title": "Formação Aprenda a Programar em Javascript com Foco no Back-end",
-        "url": "https://cursos.alura.com.br/degree/certificate/6979b3f6-968c-4f0c-825b-0510e9dad124"
+        "url": "https://cursos.alura.com.br/degree/certificate/6979b3f6-968c-4f0c-825b-0510e9dad124",
+        "hours": 74
     },
     {
         "shortname": "javascript-front-end",
         "title": "Formação Desenvolva Aplicações Web com Javascript",
-        "url": "https://cursos.alura.com.br/degree/certificate/d12f2da7-8d8c-4c84-b5f6-a5c1b86d2307"
+        "url": "https://cursos.alura.com.br/degree/certificate/d12f2da7-8d8c-4c84-b5f6-a5c1b86d2307",
+        "hours": 60
     },
     {
         "shortname": "typescript",
         "title": "Formação Melhore sua Experiência de Desenvolvimento com Typescript",
-        "url": "https://cursos.alura.com.br/degree/certificate/92c53a4b-2f5d-4b13-bcb5-dc828c2faa5a"
+        "url": "https://cursos.alura.com.br/degree/certificate/92c53a4b-2f5d-4b13-bcb5-dc828c2faa5a",
+        "hours": 31
     },
     {
         "shortname": "react-javascript",
         "title": "Formação Explore React com Javascript",
-        "url": "https://cursos.alura.com.br/degree/certificate/362f74af-95a8-4c5d-bd34-5976c443b10e"
+        "url": "https://cursos.alura.com.br/degree/certificate/362f74af-95a8-4c5d-bd34-5976c443b10e",
+        "hours": 65
     },
     {
         "shortname": "aprenda-java",
         "title": "Formação Aprenda a programar em Java com Orientação a Objetos",
-        "url": "https://cursos.alura.com.br/degree/certificate/40fe6f99-6ecf-40c8-a9fc-031f3c1dbb15"
+        "url": "https://cursos.alura.com.br/degree/certificate/40fe6f99-6ecf-40c8-a9fc-031f3c1dbb15",
+        "hours": 39
     },
     {
         "shortname": "java-boas-praticas",
         "title": "Formação Boas Práticas em Java",
-        "url": "https://cursos.alura.com.br/degree/certificate/edc47b4d-f3d4-48f8-88bd-1f1a14de4e0c"
+        "url": "https://cursos.alura.com.br/degree/certificate/edc47b4d-f3d4-48f8-88bd-1f1a14de4e0c",
+        "hours": 31
     },
     {
         "shortname": "python-data-science",
         "title": "Formação Python para Data Science",
-        "url": "https://cursos.alura.com.br/degree/certificate/9c2aaed3-1c89-4bcd-95ef-f719fc82ee10"
+        "url": "https://cursos.alura.com.br/degree/certificate/9c2aaed3-1c89-4bcd-95ef-f719fc82ee10",
+        "hours": 69
+    },
+    {
+        "shortname": "front-end",
+        "title": "Formação Front-End",
+        "url": "https://cursos.alura.com.br/degree/certificate/1958036d-2377-45f1-a9ea-7b15aec696a5",
+        "hours": 115
     }
 ]
